@@ -1,3 +1,4 @@
+import math
 # string data type
 
 # literal assigment
@@ -105,4 +106,28 @@ best_price = int(80)
 # float type
 gpa = 3.28
 y = float(1.14)
-print(type(gpa))
+# print(type(gpa))
+
+# complex type
+comp_value = 5 + 3j
+# print(type(comp_value))
+# print(comp_value.real)
+# print(comp_value.imag)
+
+# Built in functions for numbers
+# print(abs(gpa))
+# print(gpa + -1)
+# print(round(gpa))
+# print(round(gpa, 1))
+
+# using Math module
+print(math.pi)
+print(math.sqrt(64))
+print(math.ceil(gpa))
+print(math.floor(gpa))
+
+# casting a string to a number
+
+zipcode = "100001"
+zip_value = int(zipcode)
+print(type(zip_value))
