@@ -131,3 +131,5 @@ print(math.floor(gpa))
 zipcode = "100001"
 zip_value = int(zipcode)
 print(type(zip_value))
+
+# error when yoy attemnt to case incorrect data
