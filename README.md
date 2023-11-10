@@ -1,3 +1,6 @@
+## About
+This repo was created to host the Python programming course excercises I have completed on FreeCodeCamp. I have also built a mini-projects(Rock-Paper-Scissors Game) to make use of what I have lerned.
+
 ## Tech Stack
 PaulaBurgheleaGithub/python-course is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
