@@ -14,7 +14,7 @@ def play_rps():
 
 	playerchoice = input("\nEnter ...\n1 for Rock,\n2 for Paper,1\n3 for Scissors.\n\n")
 
-	# will assume the user has good interntions
+	# will assume the user has good intentions
 	player = int(playerchoice)
 	if playerchoice not in ["1", "2", "3"]:
 		print("You must enter : 1, 2 or 3")
