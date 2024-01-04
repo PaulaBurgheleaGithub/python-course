@@ -1,7 +1,8 @@
 repo_name: PaulaBurgheleaGithub/python-course
-report_id: 4762d92735120d3865f85cac22d4ebc1
+report_id: 34b6148cda59802affbac94ef350e2f1
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:38:29+00:00'
+timestamp: '2024-01-04T15:01:10+00:00'
 requested_by: PaulaBurgheleaGithub
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/python-course
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/python-course
   detection_source: Repo Metadata
